@@ -1,0 +1,14 @@
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/bin/Debug/net8.0/Interfaces
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/home/alhajibasalia9/dcit318-assignment2/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll
