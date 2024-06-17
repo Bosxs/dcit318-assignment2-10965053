@@ -1,0 +1,14 @@
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/bin/Debug/net8.0/Inheritance and Method Overriding
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/bin/Debug/net8.0/Inheritance and Method Overriding.deps.json
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/bin/Debug/net8.0/Inheritance and Method Overriding.runtimeconfig.json
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/bin/Debug/net8.0/Inheritance and Method Overriding.dll
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/bin/Debug/net8.0/Inheritance and Method Overriding.pdb
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/Inheritance and Method Overriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/Inheritance and Method Overriding.AssemblyInfoInputs.cache
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/Inheritance and Method Overriding.AssemblyInfo.cs
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/Inheritance and Method Overriding.csproj.CoreCompileInputs.cache
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/Inheritance and Method Overriding.dll
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/refint/Inheritance and Method Overriding.dll
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/Inheritance and Method Overriding.pdb
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/Inheritance and Method Overriding.genruntimeconfig.cache
+/home/alhajibasalia9/dcit318-assignment2/Inheritance and Method Overriding/obj/Debug/net8.0/ref/Inheritance and Method Overriding.dll
